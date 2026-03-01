@@ -1,0 +1,1 @@
+A técnica mais desafiadora foi o uso adequado de cores e contraste, garantindo hierarquia visual clara com destaque apenas à ação primária e mensagens de erro acessíveis, sem dependência exclusiva da cor.
